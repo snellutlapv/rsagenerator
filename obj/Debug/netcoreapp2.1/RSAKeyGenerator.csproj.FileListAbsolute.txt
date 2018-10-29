@@ -1,0 +1,11 @@
+C:\Source\18.5\RSAKeyGenerator\bin\Debug\netcoreapp2.1\RSAKeyGenerator.deps.json
+C:\Source\18.5\RSAKeyGenerator\bin\Debug\netcoreapp2.1\RSAKeyGenerator.runtimeconfig.json
+C:\Source\18.5\RSAKeyGenerator\bin\Debug\netcoreapp2.1\RSAKeyGenerator.runtimeconfig.dev.json
+C:\Source\18.5\RSAKeyGenerator\bin\Debug\netcoreapp2.1\RSAKeyGenerator.dll
+C:\Source\18.5\RSAKeyGenerator\bin\Debug\netcoreapp2.1\RSAKeyGenerator.pdb
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.csprojAssemblyReference.cache
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.csproj.CoreCompileInputs.cache
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.AssemblyInfoInputs.cache
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.AssemblyInfo.cs
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.dll
+C:\Source\18.5\RSAKeyGenerator\obj\Debug\netcoreapp2.1\RSAKeyGenerator.pdb
